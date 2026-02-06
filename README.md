@@ -2,10 +2,10 @@
 
 <br />
 
-## I'm a Test Engineer and Developer!
+## I'm a Software Architect and Developer!
 - 🔨 Automate everything!
-- 📖 Learning everything regarding Test Engineering and Test Automation.
-- 🕹️ Personal interests: Scripting
+- 📖 Learning everything regarding Product, System & Enterprise Architecture.
+- 🕹️ Personal interests: Home Automation, AI & Architecture
 
 <br />
 
